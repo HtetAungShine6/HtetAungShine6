@@ -7,9 +7,8 @@
 
 - 🧠 I’m currently learning **Swift, Java**
 
-- 📲 How to reach me **htetaungshine211299@gmail.com, u6530145@au.edu**
-
-- ⚡ Fun fact **I wanna be the flash⚡️**
+- 📲 How to reach me?
+- **htetaungshine211299@gmail.com, u6530145@au.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
