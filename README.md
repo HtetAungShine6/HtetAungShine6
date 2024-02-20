@@ -1,6 +1,4 @@
-![logo](https://github.com/HtetAungShine6/HtetAungShine6/blob/main/SpiderMan.jpeg)
-
-<h1 align="center">Hi 🫡, I'm Htet Aung Shine (AKA) Freddy</h1>
+<h1 align="center">Hi 🫡, I'm Htet Aung Shine (AKA) HAS</h1>
 <h3 align="center">Humbleoper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetaungshine6&label=Profile%20views&color=0e75b6&style=flat" alt="htetaungshine6" /> </p>
