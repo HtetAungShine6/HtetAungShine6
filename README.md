@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetaungshine6&label=Profile%20views&color=0e75b6&style=flat" alt="htetaungshine6" /> </p>
 
-- 🧠 I’m currently learning **Swift, Java**
+- 🧠 Trying to be better
 
 - 📲 How to reach me?
 - **htetaungshine211299@gmail.com, u6530145@au.edu**
