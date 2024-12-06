@@ -1,12 +1,9 @@
 <h1 align="center">Hi 🫡, I'm Htet Aung Shine (AKA) HAS</h1>
-<h3 align="center">Humbleoper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetaungshine6&label=Profile%20views&color=0e75b6&style=flat" alt="htetaungshine6" /> </p>
 
-- 🧠 Trying to be better
-
 - 📲 How to reach me?
-- **htetaungshine211299@gmail.com, u6530145@au.edu**
+- **htetaungshine211299@gmail.com**
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
