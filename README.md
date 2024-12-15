@@ -8,7 +8,7 @@
 <h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/bhavay_has" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavay_has" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-aung-shine-41ab62256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/htet-aung-shine-41ab62256/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-aung-shine-41ab62256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/htet-aung-shine-41ab62256" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
