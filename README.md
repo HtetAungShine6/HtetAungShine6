@@ -1,5 +1,3 @@
-<h1 align="center">Hi 🫡, I'm Htet Aung Shine (AKA) HAS</h1>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ef7a72cf-fe5f-48ce-a2ba-854afc67d342" />
 </div>
