@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🫡, I'm Htet Aung Shine (AKA) HAS</h1>
 
 <div align="center">
-  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cacda0e4-d6cb-4341-a850-ec9a1d2332ad" />
+  <img width="1536" height="700" alt="Image" src="https://github.com/user-attachments/assets/cacda0e4-d6cb-4341-a850-ec9a1d2332ad" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetaungshine6&label=Profile%20views&color=0e75b6&style=flat" alt="htetaungshine6" /> </p>
