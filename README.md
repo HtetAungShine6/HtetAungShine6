@@ -56,7 +56,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HtetAungShine6&show_icons=true&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="htetaungshine6" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htetaungshine6&" alt="htetaungshine6" /></p>
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=htetaungshine6&" alt="htetaungshine6" /></p>
 </div>
 
 <picture>
