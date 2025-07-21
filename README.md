@@ -52,6 +52,10 @@
 ## 📋 Project Management
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+## 📊 GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetAungShine6&show_icons=true&theme=tokyonight)
+
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htetaungshine6&show_icons=true&locale=en&layout=compact" alt="htetaungshine6" /></p>
 
