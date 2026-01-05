@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ef7a72cf-fe5f-48ce-a2ba-854afc67d342" />
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetaungshine6&label=Profile%20views&color=0e75b6&style=flat" alt="htetaungshine6" /> </p>
 
 - 📲 How to reach me?
